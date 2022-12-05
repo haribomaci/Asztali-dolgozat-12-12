@@ -1,0 +1,16 @@
+{
+    "java.project.sourcePaths": [
+        "test",
+        "src"
+    ],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\diak\\Programozas\\Library\\junit-jupiter-api-5.9.1.jar",
+        "c:\\Users\\diak\\Programozas\\Library\\junit-platform-console-standalone-1.9.1.jar"
+    ],
+    "java.test.config":{
+        "name": "Java teszt",
+        "workingDirectory": "${workspaceFolder}"
+    }
+}
